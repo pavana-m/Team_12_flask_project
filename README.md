@@ -2,6 +2,10 @@
 #### Project Team Members : Pavana Manjunath(CWID : 885154195), Pavithra Halanayakanahalli Amaresh (CWID : 885155101), Lakshmi Poojitha Lysetti (CWID : 885155077)
 # Project Description
 #### 
+This Titan News FastAPI-based subscription management system utilizes MongoDB for data storage. It supports user authentication, admin access control, and includes functionalities for managing subscription plans, permissions, and tracking API usage. The system enforces access restrictions based on subscription plans and monitors usage limits, providing a comprehensive solution for cloud service subscription management.
+### Drive Link For the Project Demonstration
+https://drive.google.com/drive/folders/1A67rQYtsYdbQItyXA1fsPuq4Lay2oRSg?usp=sharing
+# Features
 
 "pip install -r requirements.txt"
 
